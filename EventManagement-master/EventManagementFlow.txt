@@ -1,0 +1,12 @@
+Back-Project Flow
+├── src
+|   ├── configs                                          
+|   ├── controllers
+|   ├── middlewares
+|   ├── models
+|   ├── routers 
+|   ├── utils
+|   ├── index.js
+├── .env                               
+├── .gitignore
+├── package.json
